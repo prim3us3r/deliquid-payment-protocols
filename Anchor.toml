@@ -1,0 +1,14 @@
+anchor_version = "0.20.1"
+solana_version = "1.9.13"
+
+[workspace]
+members = [
+  "order",
+]
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
+[programs.localnet]
+order = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
