@@ -3,7 +3,7 @@ solana_version = "1.9.13"
 
 [workspace]
 members = [
-  "order",
+  "order/program",
 ]
 
 [provider]
