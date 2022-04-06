@@ -6,7 +6,7 @@ export const products = [
       'Simple web design service (up to 3 revisions). Includes basic styling and functionality!',
     unitName: 'package', // shows after the price, eg. 0.05 SOL/box
     priceSol: 1,
-    priceUsd: 100,
+    priceUsd: 5,
   },
   {
     id: 'theres-cream-inside-tier',
@@ -15,7 +15,7 @@ export const products = [
       'Web design services (up to 5 revisions). Includes branding services.',
     unitName: 'package',
     priceSol: 1.5,
-    priceUsd: 150,
+    priceUsd: 15,
   },
   {
     id: 'semi-sweet-tier',
