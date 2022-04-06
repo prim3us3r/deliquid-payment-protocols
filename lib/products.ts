@@ -1,18 +1,18 @@
 export const products = [
   {
     id: 'box-of-cookies',
-    name: 'Box',
-    description: 'A delicious box of handmade cookies',
+    name: 'Mocha',
+    description: 'A delicious artisan Mocha',
     unitName: 'box', // shows after the price, eg. 0.05 SOL/box
-    priceSol: 0.05,
-    priceUsd: 3,
+    priceSol: 0.01,
+    priceUsd: 2,
   },
   {
     id: 'basket-of-cookies',
-    name: 'Basket',
-    description: 'A large basket of handmade cookies',
+    name: 'Latte',
+    description: 'A popular homemade Latte',
     unitName: 'basket',
-    priceSol: 0.15,
-    priceUsd: 11,
+    priceSol: 0.02,
+    priceUsd: 3.5,
   }
 ]
