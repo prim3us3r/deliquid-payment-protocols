@@ -3,7 +3,7 @@ solana_version = "1.9.13"
 
 [workspace]
 members = [
-  "order/program",
+  "deliquid_payment/program",
 ]
 
 [provider]
@@ -11,4 +11,7 @@ cluster = "localnet"
 wallet = "~/.config/solana/id.json"
 
 [programs.localnet]
+order = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+
+[programs.devnet]
 order = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"

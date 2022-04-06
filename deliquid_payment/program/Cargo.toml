@@ -1,12 +1,12 @@
 [package]
-name = "order"
+name = "deliquid_payment"
 version = "0.1.0"
-description = "Created with Anchor"
+description = "DeLiquid Payment"
 edition = "2021"
 
 [lib]
 crate-type = ["cdylib", "lib"]
-name = "order"
+name = "payment"
 
 [features]
 no-entrypoint = []
