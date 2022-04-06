@@ -1,7 +1,7 @@
 use anchor_lang::prelude::*;
 use solana_program::account_info::AccountInfo;
 
-declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
+declare_id!("EG9BoEoF6eZZ87ThkAGMPoF9RW85DKVpA9EjMnxyeRrR");
 
 #[program]
 pub mod deliquid_payment {
