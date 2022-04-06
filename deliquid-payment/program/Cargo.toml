@@ -1,5 +1,5 @@
 [package]
-name = "deliquid_payment"
+name = "deliquid-payment"
 version = "0.1.0"
 description = "DeLiquid Payment"
 edition = "2021"

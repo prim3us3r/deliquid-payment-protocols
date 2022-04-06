@@ -1,2 +1,2 @@
 [workspace]
-members = ["deliquid_payment/program"]
+members = ["deliquid-payment/program"]
