@@ -37,7 +37,7 @@ type ErrorOutput = {
 
 function get(res: NextApiResponse<MakeTransactionGetResponse>) {
   res.status(200).json({
-    label: 'Cupcake Coding Co',
+    label: 'Cuppas soul cafe',
     icon: 'https://freesvg.org/img/cupcake.png',
   })
 }
